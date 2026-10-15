@@ -43,7 +43,17 @@ Username: `admin`
 
 Password: `Admin@123`
 
-**Note:** These are demo credentials. Change them before deploying the application publicly.
+## Project Development Schedule
+
+The project development was organized into five phases over five days.
+
+| Day | Date | Work Completed |
+|---|---|---|
+| Day 1 | 10 October 2026 | Project setup, requirements, and database design |
+| Day 2 | 11 October 2026 | Donor registration and login functionality |
+| Day 3 | 12 October 2026 | Donor search and blood request functionality |
+| Day 4 | 13 October 2026 | Admin panel, CSS styling, and feature integration |
+| Day 5 | 14 October 2026 | Testing, bug fixing, and project documentation |
 
 ## Conclusion
 This project demonstrates how PHP and MySQL can be used to develop a basic blood donor management application with donor registration, donor searching, blood requests, and administrative features.
